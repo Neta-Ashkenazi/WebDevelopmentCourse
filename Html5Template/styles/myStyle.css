@@ -1,0 +1,54 @@
+body {
+    direction: rtl;
+    background-image: url('../images/geometrical-abstract-triangle-mosaic-pattern-background-vector-graphic-from-triangles-blue-tones_1164-1136.jpg');
+    opacity: 0.8;
+}
+
+#container {
+    background-color: whitesmoke;
+    width: 960px;
+    margin: 0 auto;
+    line-height: 20px;
+}
+
+form {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    padding-right: 40px;
+    margin-right: 40px;
+    padding-top: 30px;
+    margin-top: 30px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 16pt;
+    padding-top: 20px;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin-top: -200px;
+    margin-right: 400px;
+}
+
+#p1 {
+    text-align: center;
+    font-size: 14pt;
+    padding-top: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16pt;
+    margin: 10px;
+}
+
+
+
+p {
+    text-align: center;
+}
